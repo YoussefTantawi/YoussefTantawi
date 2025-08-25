@@ -12,7 +12,7 @@
 🎓 3rd-year IT student.  
 📱 passionate about **Mobile App Development** using **Flutter**.  
 📚 I’ve worked with multiple languages and tools including:  
-🛠️ C++, C#, Java, Dart, JavaScript, MySQL and many more.  
+⚙️ C++, C#, Java, Dart, JavaScript, MySQL and many more.  
 🕹️ I'm also into **Game Development**, **3D Modeling**, **UI/UX Design**, **Photo/Video Editing**  
 and love **Chess ♟️**, **Drawing ✏️**, and of course **Gaming 🎮**.
 
