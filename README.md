@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <h1>👋 Hey, I'm Youssef Tantawi</h1>
-<h3>🚀 Flutter Developer | 🎨 UI/UX Designer | 🧱 3D Modeler </h3>
+<h3>🚀 Flutter Developer | 🎨 UI/UX Designer </h3>
 
 <br>
 
@@ -38,6 +38,7 @@ and I love **Chess ♟️**, **Drawing ✏️**, and of course **Gaming 🎮**.
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1D8750?style=flat&logo=cisco&logoColor=white)
 
 
 
