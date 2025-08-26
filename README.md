@@ -1,11 +1,11 @@
 <div align="center" width="50">
   
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 ---
 
 <h1>👋 Hey, I'm Youssef Tantawi</h1>
-<h3>🚀 Flutter Developer | 🎨 UI/UX Designer | 🧱 3D Modeling </h3>
+<h3>🚀 Flutter Developer | 🎨 UI/UX Designer | 🧱 3D Modeler </h3>
 
 <br>
 
