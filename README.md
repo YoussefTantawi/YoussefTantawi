@@ -1,8 +1,4 @@
 <div align="center" width="50">
-  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
----
 
 <h1>👋 Hey, I'm Youssef Tantawi</h1>
 <h3>🚀 Flutter Developer | 🎨 UI/UX Designer | 🧱 3D Modeler </h3>
@@ -16,7 +12,8 @@
 🕹️ I'm also into **Game Development**, **3D Modeling**, **UI/UX Design**, **Photo/Video Editing**  
 and I love **Chess ♟️**, **Drawing ✏️**, and of course **Gaming 🎮**.
 
-</div>
+  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 ---
 
@@ -32,7 +29,7 @@ and I love **Chess ♟️**, **Drawing ✏️**, and of course **Gaming 🎮**.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
----
+
 
 ### 🧰 Frameworks & Platforms
 
@@ -42,7 +39,7 @@ and I love **Chess ♟️**, **Drawing ✏️**, and of course **Gaming 🎮**.
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
----
+
 
 ### 💾 Database
 
@@ -52,7 +49,7 @@ and I love **Chess ♟️**, **Drawing ✏️**, and of course **Gaming 🎮**.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
----
+
 
 ### 🖥️ Operating Systems
 
@@ -61,7 +58,7 @@ and I love **Chess ♟️**, **Drawing ✏️**, and of course **Gaming 🎮**.
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
----
+
 
 ### 🧑‍💻 IDEs & Code Editors
 
@@ -70,19 +67,19 @@ and I love **Chess ♟️**, **Drawing ✏️**, and of course **Gaming 🎮**.
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
----
+
 
 ### 🎨 UI/UX & Design Tools
 
 ![Figma](https://img.shields.io/badge/Figma-9531f3?style=flat&logo=figma&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/Adobe_Premiere-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
 ![Camtasia](https://img.shields.io/badge/Camtasia-06B025?style=flat)
 
----
+
 
 ### 🔗 Version Control & Others
 
@@ -103,6 +100,6 @@ and I love **Chess ♟️**, **Drawing ✏️**, and of course **Gaming 🎮**.
 [![Khamsat](https://img.shields.io/badge/Khamsat-FFCC00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://khamsat.com/user/youssef_tantawi)
 [![Mostaql](https://img.shields.io/badge/Mostaqel-009EF7?style=flat&logo=freelancer&logoColor=white)](https://mostaql.com/u/yourusername)
 
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=YoussefTantawi&style=flat&color=orange&label=PROFILE+VIEWS)
+
+</div>
